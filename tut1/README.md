@@ -37,7 +37,3 @@ Make sure you have Python and Flask installed on your system before running this
     - The `'/'` route is associated with the `index()` function, which returns a simple HTML page displaying "Hello World" and a button linking to the `/hello` route.
     - The `'/hello'` route is associated with the `hello()` function, which returns "Hey there" and a button linking back to the homepage.
 - The `__name__` variable is used to ensure that the Flask application runs when the script is executed directly.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
