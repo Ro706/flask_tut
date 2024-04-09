@@ -25,9 +25,9 @@ Make sure you have Python and Flask installed on your system before running this
     ```
 
 2. Open a web browser and go to [http://127.0.0.1:5000/](http://127.0.0.1:5000/) to see the homepage.
-
+![Screenshot 2024-04-09 192110](https://github.com/Ro706/flask_tut/assets/60247178/97e6ea03-b59a-4d94-9247-54d3af57b8ee)
 3. Click the "Click here" button to navigate to the `/hello` route.
-
+![Screenshot 2024-04-09 192057](https://github.com/Ro706/flask_tut/assets/60247178/6aab50d3-1afb-4e6c-a5cb-22b4ca1ff45e)
 4. Click the "Go back" button to return to the homepage.
 
 ## Code Explanation
@@ -37,3 +37,5 @@ Make sure you have Python and Flask installed on your system before running this
     - The `'/'` route is associated with the `index()` function, which returns a simple HTML page displaying "Hello World" and a button linking to the `/hello` route.
     - The `'/hello'` route is associated with the `hello()` function, which returns "Hey there" and a button linking back to the homepage.
 - The `__name__` variable is used to ensure that the Flask application runs when the script is executed directly.
+
+
