@@ -68,6 +68,7 @@ Feel free to modify it according to your preferences and project specifics!
 ```
 
 ## Image 
+![Screenshot 2024-04-14 011013](https://github.com/Ro706/flask_tut/assets/60247178/3ca7234b-44f2-40e2-98e9-4ea025a12b63)
 ![Screenshot 2024-04-14 011035](https://github.com/Ro706/flask_tut/assets/60247178/3dd5d13e-9554-48e1-82c7-6457e25e3db5)
 ![Screenshot 2024-04-14 011107](https://github.com/Ro706/flask_tut/assets/60247178/c0bd5ca0-8768-4092-9db2-d15d39d96ce7)
 ![Screenshot 2024-04-14 011124](https://github.com/Ro706/flask_tut/assets/60247178/28df23cd-911c-4a38-a1e2-14cc4ca315fb)
