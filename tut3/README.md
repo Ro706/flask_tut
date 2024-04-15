@@ -58,3 +58,7 @@ This application uses SQLite as its database. The database file (`todo.db`) will
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Image
+![Screenshot 2024-04-16 000313](https://github.com/Ro706/flask_tut/assets/60247178/69dee865-d47e-47bd-8e98-a1d00b276a0f)
+![Screenshot 2024-04-16 000403](https://github.com/Ro706/flask_tut/assets/60247178/d13e8623-12fe-438d-9f9d-285efc921ac0)
